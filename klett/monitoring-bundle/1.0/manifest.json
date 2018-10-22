@@ -1,0 +1,13 @@
+{
+    "aliases": [
+      "klett-monitoring"
+    ],
+    "bundles": {
+      "Klett\\Bundle\\MonitoringBundle\\KlettMonitoringBundle": [
+        "all"
+      ]
+    },
+    "copy-from-recipe": {
+        "config/": "%CONFIG_DIR%/"
+    }
+}

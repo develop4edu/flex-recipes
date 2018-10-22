@@ -1,0 +1,2 @@
+klett_monitoring:
+    resource: '@KlettMonitoringBundle/Resources/config/routing.yml'
